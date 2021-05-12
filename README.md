@@ -7,3 +7,13 @@ This is an front end project by using reacts
 *font style in italic*
 **font style in bold**
 ***Font style both italic & bold***
+*italic font*
+**bold**
+***both italic & bold***
+
+# Unordered list
+* Fruits
+  * Mangoes
+  * Bananas
+  * Apples
+  
