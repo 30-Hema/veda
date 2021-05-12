@@ -16,4 +16,8 @@ This is an front end project by using reacts
   * Mangoes
   * Bananas
   * Apples
-  
+ 
+ # Ordered list
+  1. Vegitables
+  2. potatos
+  3. Spinach
