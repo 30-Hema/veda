@@ -32,3 +32,5 @@ This is an front end project by using reacts
 def fun():
 print("Hi")
 ~~~
+
+Table 1
